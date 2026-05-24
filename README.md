@@ -29,7 +29,7 @@ You can also see my personal portfolio where more information about myself and m
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcos-caballeronieto&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcos-caballeronieto&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
